@@ -8,13 +8,13 @@ As can be seen, there is still work to be done.
 
 
 
-<h3> RTL2832u and R820t components are from my own [Altium library](https://github.com/2ftg/ftg_lib) </h3>  
+<h3> RTL2832u and R820t components are from my own [Altium library](https://github.com/2ftg/ftg_lib)</h3>  
 These components are based on reverse engineered work, as I don't have a datasheet for the RTL2832U.  
 Thus potential errors are possible.  
 As always there's no guarantee of anything. 
   
 -2ftg 2018  
 
-<h4>Music that consumed during design</h4>
+<h4>Music that was consumed during design</h4>
 https://www.youtube.com/watch?v=Nw3I06inaNg  
 https://www.youtube.com/watch?v=N5MTcYjSPmg  
