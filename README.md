@@ -1,10 +1,20 @@
-# RTL_mPCIE\s\s
-Mini-PCIe RTL-SDR\s\s
-This is my attempt at making a half-lenght Mini-PCI-Express card that has a fully featured RTL-SDR stick.\s\s
-PCB and SCH templates from ALtium design content is used as the basis for this design.\s\s
+# RTL_mPCIE  
+Mini-PCIe RTL-SDR  
+This is my attempt at making a half-lenght Mini-PCI Express card that has a fully featured RTL-SDR stick.  
+PCB and SCH templates from [Altium Design Content](https://designcontent.live.altium.com/#TemplateDesignDetail/PDE-0001-00003) is used as the basis for this design.  
 
-<h1> RTL2832u and R820t components are from my own Altium library </h1>
+![Glorious pcb](https://i.imgur.com/pHXGQ7i.png)  
+As can be seen, there is still work to be done. 
+
+
+
+<h3> RTL2832u and R820t components are from my own [Altium library](https://github.com/2ftg/ftg_lib) </h3>  
+These components are based on reverse engineered work, as I don't have a datasheet for the RTL2832U.  
+Thus potential errors are possible.  
+As always there's no guarantee of anything. 
+  
+-2ftg 2018  
 
 <h4>Music that consumed during design</h4>
-https://www.youtube.com/watch?v=Nw3I06inaNg \s\s
-https://www.youtube.com/watch?v=N5MTcYjSPmg \s\s
+https://www.youtube.com/watch?v=Nw3I06inaNg  
+https://www.youtube.com/watch?v=N5MTcYjSPmg  
