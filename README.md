@@ -1,5 +1,6 @@
 # RTL_mPCIE  
 Mini-PCIe RTL-SDR  
+This design is currently incomplete and somewhere around Altium 18 the pcb link for the PCIe connector got broken.
 This is my attempt at making a half-lenght Mini-PCI Express card that has a fully featured RTL-SDR stick.  
 PCB and SCH templates from [Altium Design Content](https://designcontent.live.altium.com/#TemplateDesignDetail/PDE-0001-00003) is used as the basis for this design.  
 
